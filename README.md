@@ -20,7 +20,7 @@ More projects will be added regularly.
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.jpeg)
+![Dashboard](walmart-sales-analysis/Dashboard.jpeg)
 
 ## Key Findings
 
