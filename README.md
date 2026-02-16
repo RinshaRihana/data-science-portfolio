@@ -17,3 +17,7 @@ Analysis of sales trends and seasonality using SQL, Python and Power BI.
 Machine learning model to predict student scores and identify influencing factors.
 
 More projects will be added regularly.
+
+## Dashboard Preview
+
+![Dashboard](Dashboard.jpeg)
